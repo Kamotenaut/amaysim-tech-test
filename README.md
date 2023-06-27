@@ -11,3 +11,4 @@ From your cloned directory, open index.html and
 
 ## Test Scenarios
 Uncomment the scenarios on the end of file in index.html
+Ideally with Node, implementation of unit test via Jest or any other library can be done.
